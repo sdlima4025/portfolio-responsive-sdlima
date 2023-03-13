@@ -2,7 +2,7 @@
 ![preview img](/preview.png)
 
 # 💫 About Me:
-Atualmente Analista Funcional<br>Estudo Tecnologias Frontend desde 2017.
+Atualmente trabalho como Analista Funcional<br>Estudo Tecnologias Frontend desde 2017<br> Formado em 2020.
 
 
 ## 🌐 Socials:
@@ -18,7 +18,6 @@ Atualmente Analista Funcional<br>Estudo Tecnologias Frontend desde 2017.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sdlima4025&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
